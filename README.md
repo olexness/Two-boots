@@ -1,4 +1,4 @@
-# Two-boots
+# Two Boots
 
 Could be worse
 
