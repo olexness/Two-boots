@@ -256,6 +256,10 @@
                                     \----> [TMDB API]
 ```
 
+## Модель предметной области / данных
+
+<img width="624" height="456" alt="image" src="https://github.com/user-attachments/assets/b2c75625-ea9e-4585-931c-bbc4060e21b8" />
+
 ---
 
 #  Use-case диаграммы (текстовые)
@@ -290,6 +294,10 @@ DB → Backend: OK
 Backend → Client: success
 Client → User: отображает изменение
 ```
+
+## Диаграмма развертывания
+
+<img width="624" height="344" alt="image" src="https://github.com/user-attachments/assets/21fe4cb8-604e-4d28-b435-7fa1a8591895" />
 
 ---
 
