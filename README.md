@@ -173,14 +173,18 @@
 * Внешний источник данных — TMDB API
 * Протокол — HTTPS
 
-## Модель предметной области / данных
+## Логическая модель базы данных
 
 <img width="624" height="456" alt="image" src="https://github.com/user-attachments/assets/b2c75625-ea9e-4585-931c-bbc4060e21b8" />
 
 ---
 
+ 
+## Схема получения данных из базы данных
 
+<img width="513" height="423" alt="image" src="https://github.com/user-attachments/assets/56972cb4-f8d0-4692-94f6-d1e951591af2" />
 
+---
 
 
 ## Диаграмма развертывания
@@ -188,6 +192,21 @@
 <img width="624" height="344" alt="image" src="https://github.com/user-attachments/assets/21fe4cb8-604e-4d28-b435-7fa1a8591895" />
 
 ---
+
+
+## Диаграмма границ использования
+
+<img width="624" height="488" alt="image" src="https://github.com/user-attachments/assets/c59f8b20-8d0b-4c46-abef-b396db31cfbd" />
+
+---
+
+
+## Расширенная диаграмма границ использования
+
+<img width="624" height="320" alt="image" src="https://github.com/user-attachments/assets/79ce0373-824a-4904-a729-7c9c06618291" />
+
+---
+
 
 # Оценка качества системы
 
